@@ -1,0 +1,15 @@
+langchain
+langgraph
+chromadb
+fastapi
+uvicorn
+beautifulsoup4
+requests
+duckduckgo-search
+newspaper3k
+streamlit
+tiktoken
+dotenv
+langchain-ollama
+ollama
+langchain-community
